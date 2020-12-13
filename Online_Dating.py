@@ -313,7 +313,7 @@ st.title("AI-Love Match")
 st.header("Finding a Date with Artificial Intelligence")
 st.write("Using Machine Learning to Find the Top Dating Profiles for you")
 
-image = Image.open('C:/Users/84657/Desktop/images.jpg')
+image = Image.open('robot_matchmaker.jpg')
 
 st.image(image, use_column_width=True)
 
